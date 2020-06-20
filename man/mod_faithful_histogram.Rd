@@ -8,7 +8,7 @@
 \usage{
 mod_faithful_histogram_ui(id)
 
-mod_faithful_histogram_server(input, output, session)
+mod_faithful_histogram_server(input, output, session, variable = rective(NULL))
 }
 \arguments{
 \item{id, input, output, session}{Internal parameters for {shiny}.}
